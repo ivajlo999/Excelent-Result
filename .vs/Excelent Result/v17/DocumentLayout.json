@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Excelent Result\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{16C7462E-DD84-426A-A5DE-C70131974995}|probss\\probss.csproj|c:\\users\\admin\\source\\repos\\excelent result\\probss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C7462E-DD84-426A-A5DE-C70131974995}|probss\\probss.csproj|solutionrelative:probss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D95F87C5-3E47-4D37-82F9-FC7D074EB265}|Poznai Parolata\\Poznai Parolata.csproj|c:\\users\\admin\\source\\repos\\excelent result\\poznai parolata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D95F87C5-3E47-4D37-82F9-FC7D074EB265}|Poznai Parolata\\Poznai Parolata.csproj|solutionrelative:poznai parolata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,11 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Excelent Result\\probss\\Program.cs",
+              "RelativeDocumentMoniker": "probss\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Excelent Result\\probss\\Program.cs",
+              "RelativeToolTip": "probss\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T12:40:05.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Excelent Result\\tri ednakvi chisla\\Program.cs",
               "RelativeDocumentMoniker": "tri ednakvi chisla\\Program.cs",
@@ -54,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Excelent Result\\Ednakvi dumi\\Program.cs",
               "RelativeDocumentMoniker": "Ednakvi dumi\\Program.cs",
@@ -66,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Excelent Result\\Poznai Parolata\\Program.cs",
               "RelativeDocumentMoniker": "Poznai Parolata\\Program.cs",
@@ -79,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Excelent Result\\po golqmoto chislo\\Program.cs",
               "RelativeDocumentMoniker": "po golqmoto chislo\\Program.cs",
@@ -87,12 +104,11 @@
               "RelativeToolTip": "po golqmoto chislo\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T11:32:22.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T11:32:22.276Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Excelent Result\\even or odd\\Program.cs",
               "RelativeDocumentMoniker": "even or odd\\Program.cs",
@@ -104,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Excelent Result\\Excelent or not\\Program.cs",
               "RelativeDocumentMoniker": "Excelent or not\\Program.cs",
@@ -116,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Excelent Result\\Excelent Result\\Program.cs",
               "RelativeDocumentMoniker": "Excelent Result\\Program.cs",
