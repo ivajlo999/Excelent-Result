@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Excelent Result\Excelent or not\bin\Debug\net8.0\Excelent or not.exe
+C:\Users\Admin\source\repos\Excelent Result\Excelent or not\bin\Debug\net8.0\Excelent or not.deps.json
+C:\Users\Admin\source\repos\Excelent Result\Excelent or not\bin\Debug\net8.0\Excelent or not.runtimeconfig.json
+C:\Users\Admin\source\repos\Excelent Result\Excelent or not\bin\Debug\net8.0\Excelent or not.dll
+C:\Users\Admin\source\repos\Excelent Result\Excelent or not\bin\Debug\net8.0\Excelent or not.pdb
+C:\Users\Admin\source\repos\Excelent Result\Excelent or not\obj\Debug\net8.0\Excelent or not.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Excelent Result\Excelent or not\obj\Debug\net8.0\Excelent or not.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Excelent Result\Excelent or not\obj\Debug\net8.0\Excelent or not.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Excelent Result\Excelent or not\obj\Debug\net8.0\Excelent or not.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Excelent Result\Excelent or not\obj\Debug\net8.0\Excelent or not.dll
+C:\Users\Admin\source\repos\Excelent Result\Excelent or not\obj\Debug\net8.0\refint\Excelent or not.dll
+C:\Users\Admin\source\repos\Excelent Result\Excelent or not\obj\Debug\net8.0\Excelent or not.pdb
+C:\Users\Admin\source\repos\Excelent Result\Excelent or not\obj\Debug\net8.0\Excelent or not.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Excelent Result\Excelent or not\obj\Debug\net8.0\ref\Excelent or not.dll

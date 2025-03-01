@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Excelent Result\po golqmoto chislo\bin\Debug\net8.0\po golqmoto chislo.exe
+C:\Users\Admin\source\repos\Excelent Result\po golqmoto chislo\bin\Debug\net8.0\po golqmoto chislo.deps.json
+C:\Users\Admin\source\repos\Excelent Result\po golqmoto chislo\bin\Debug\net8.0\po golqmoto chislo.runtimeconfig.json
+C:\Users\Admin\source\repos\Excelent Result\po golqmoto chislo\bin\Debug\net8.0\po golqmoto chislo.dll
+C:\Users\Admin\source\repos\Excelent Result\po golqmoto chislo\bin\Debug\net8.0\po golqmoto chislo.pdb
+C:\Users\Admin\source\repos\Excelent Result\po golqmoto chislo\obj\Debug\net8.0\po golqmoto chislo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Excelent Result\po golqmoto chislo\obj\Debug\net8.0\po golqmoto chislo.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Excelent Result\po golqmoto chislo\obj\Debug\net8.0\po golqmoto chislo.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Excelent Result\po golqmoto chislo\obj\Debug\net8.0\po golqmoto chislo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Excelent Result\po golqmoto chislo\obj\Debug\net8.0\po golqmoto chislo.dll
+C:\Users\Admin\source\repos\Excelent Result\po golqmoto chislo\obj\Debug\net8.0\refint\po golqmoto chislo.dll
+C:\Users\Admin\source\repos\Excelent Result\po golqmoto chislo\obj\Debug\net8.0\po golqmoto chislo.pdb
+C:\Users\Admin\source\repos\Excelent Result\po golqmoto chislo\obj\Debug\net8.0\po golqmoto chislo.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Excelent Result\po golqmoto chislo\obj\Debug\net8.0\ref\po golqmoto chislo.dll

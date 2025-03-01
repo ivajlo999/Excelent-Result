@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Excelent Result\tri ednakvi chisla\bin\Debug\net8.0\tri ednakvi chisla.exe
+C:\Users\Admin\source\repos\Excelent Result\tri ednakvi chisla\bin\Debug\net8.0\tri ednakvi chisla.deps.json
+C:\Users\Admin\source\repos\Excelent Result\tri ednakvi chisla\bin\Debug\net8.0\tri ednakvi chisla.runtimeconfig.json
+C:\Users\Admin\source\repos\Excelent Result\tri ednakvi chisla\bin\Debug\net8.0\tri ednakvi chisla.dll
+C:\Users\Admin\source\repos\Excelent Result\tri ednakvi chisla\bin\Debug\net8.0\tri ednakvi chisla.pdb
+C:\Users\Admin\source\repos\Excelent Result\tri ednakvi chisla\obj\Debug\net8.0\tri ednakvi chisla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Excelent Result\tri ednakvi chisla\obj\Debug\net8.0\tri ednakvi chisla.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Excelent Result\tri ednakvi chisla\obj\Debug\net8.0\tri ednakvi chisla.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Excelent Result\tri ednakvi chisla\obj\Debug\net8.0\tri ednakvi chisla.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Excelent Result\tri ednakvi chisla\obj\Debug\net8.0\tri ednakvi chisla.dll
+C:\Users\Admin\source\repos\Excelent Result\tri ednakvi chisla\obj\Debug\net8.0\refint\tri ednakvi chisla.dll
+C:\Users\Admin\source\repos\Excelent Result\tri ednakvi chisla\obj\Debug\net8.0\tri ednakvi chisla.pdb
+C:\Users\Admin\source\repos\Excelent Result\tri ednakvi chisla\obj\Debug\net8.0\tri ednakvi chisla.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Excelent Result\tri ednakvi chisla\obj\Debug\net8.0\ref\tri ednakvi chisla.dll

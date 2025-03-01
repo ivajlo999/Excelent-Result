@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "po golqmoto chislo/1.0.0": {
+        "runtime": {
+          "po golqmoto chislo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "po golqmoto chislo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

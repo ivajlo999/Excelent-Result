@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Excelent Result\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D95F87C5-3E47-4D37-82F9-FC7D074EB265}|Poznai Parolata\\Poznai Parolata.csproj|c:\\users\\admin\\source\\repos\\excelent result\\poznai parolata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D95F87C5-3E47-4D37-82F9-FC7D074EB265}|Poznai Parolata\\Poznai Parolata.csproj|solutionrelative:poznai parolata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E002CE47-4E56-458D-A2D7-D57B45AFCBA0}|po golqmoto chislo\\po golqmoto chislo.csproj|c:\\users\\admin\\source\\repos\\excelent result\\po golqmoto chislo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E002CE47-4E56-458D-A2D7-D57B45AFCBA0}|po golqmoto chislo\\po golqmoto chislo.csproj|solutionrelative:po golqmoto chislo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D180D5F8-E223-4AB7-B7B9-674510909F9A}|tri ednakvi chisla\\tri ednakvi chisla.csproj|c:\\users\\admin\\source\\repos\\excelent result\\tri ednakvi chisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D180D5F8-E223-4AB7-B7B9-674510909F9A}|tri ednakvi chisla\\tri ednakvi chisla.csproj|solutionrelative:tri ednakvi chisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51618D13-BBA7-45EA-A298-B2CAE12C8E4B}|Ednakvi dumi\\Ednakvi dumi.csproj|c:\\users\\admin\\source\\repos\\excelent result\\ednakvi dumi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51618D13-BBA7-45EA-A298-B2CAE12C8E4B}|Ednakvi dumi\\Ednakvi dumi.csproj|solutionrelative:ednakvi dumi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C22B9E-70F3-46CF-804E-4C42377674E6}|even or odd\\even or odd.csproj|c:\\users\\admin\\source\\repos\\excelent result\\even or odd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C22B9E-70F3-46CF-804E-4C42377674E6}|even or odd\\even or odd.csproj|solutionrelative:even or odd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B32D9E58-3247-47C3-9104-F35DF6F2AF05}|Excelent or not\\Excelent or not.csproj|c:\\users\\admin\\source\\repos\\excelent result\\excelent or not\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B32D9E58-3247-47C3-9104-F35DF6F2AF05}|Excelent or not\\Excelent or not.csproj|solutionrelative:excelent or not\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBAD260-E16B-4993-B58F-3ED705B82639}|Excelent Result\\Excelent Result.csproj|c:\\users\\admin\\source\\repos\\excelent result\\excelent result\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FBAD260-E16B-4993-B58F-3ED705B82639}|Excelent Result\\Excelent Result.csproj|solutionrelative:excelent result\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Excelent Result\\tri ednakvi chisla\\Program.cs",
+              "RelativeDocumentMoniker": "tri ednakvi chisla\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Excelent Result\\tri ednakvi chisla\\Program.cs",
+              "RelativeToolTip": "tri ednakvi chisla\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:34:53.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Excelent Result\\Ednakvi dumi\\Program.cs",
+              "RelativeDocumentMoniker": "Ednakvi dumi\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Excelent Result\\Ednakvi dumi\\Program.cs",
+              "RelativeToolTip": "Ednakvi dumi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:19:54.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Excelent Result\\Poznai Parolata\\Program.cs",
+              "RelativeDocumentMoniker": "Poznai Parolata\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Excelent Result\\Poznai Parolata\\Program.cs",
+              "RelativeToolTip": "Poznai Parolata\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T11:41:18.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Excelent Result\\po golqmoto chislo\\Program.cs",
+              "RelativeDocumentMoniker": "po golqmoto chislo\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Excelent Result\\po golqmoto chislo\\Program.cs",
+              "RelativeToolTip": "po golqmoto chislo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T11:32:22.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Excelent Result\\even or odd\\Program.cs",
+              "RelativeDocumentMoniker": "even or odd\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Excelent Result\\even or odd\\Program.cs",
+              "RelativeToolTip": "even or odd\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T11:18:13.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Excelent Result\\Excelent or not\\Program.cs",
+              "RelativeDocumentMoniker": "Excelent or not\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Excelent Result\\Excelent or not\\Program.cs",
+              "RelativeToolTip": "Excelent or not\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T11:08:25.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Excelent Result\\Excelent Result\\Program.cs",
+              "RelativeDocumentMoniker": "Excelent Result\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Excelent Result\\Excelent Result\\Program.cs",
+              "RelativeToolTip": "Excelent Result\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T11:00:42.63Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
